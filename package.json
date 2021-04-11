@@ -1,0 +1,19 @@
+{
+  "name": "marcelotur",
+  "version": "1.0.0",
+  "description": "site de transporte",
+  "main": "index.js",
+  "author": "Everton Souza",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.2.3"
+  }
+}
